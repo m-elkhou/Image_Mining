@@ -1,0 +1,7 @@
+https://www.kaggle.com/grassknoted/asl-alphabet
+
+And click download
+
+https://www.kaggle.com/steve7an/interpret-sign-language-with-deep-learning
+
+https://www.kaggle.com/gargimaheshwari/asl-recognition-with-deep-learning?fbclid=IwAR38gQqFrpe25mjArUsfZycUUBnHi2D0WeeUtfIOZW0sp5XnkMIobFAhWNE

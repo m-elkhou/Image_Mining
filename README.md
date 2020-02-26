@@ -9,7 +9,8 @@ ACADEMIC PROJECTS
 - [GitHub : ](https://github.com/m-elkhou) m-elkhou
 - [Linkedin : ](https://www.linkedin.com/in/m-elkhou/) m-elkhou
 
-
+<p>
 ╔╦╗┌─┐┬ ┬┌─┐┌┬┐┌┬┐┌─┐┌┬┐  ╔═╗╦    ╦╔═╦ ╦╔═╗╦ ╦<br/>
 ║║║│ │├─┤├─┤││││││├┤  ││  ║╣ ║    ╠╩╗╠═╣║ ║║ ║<br/>
 ╩ ╩└─┘┴ ┴┴ ┴┴ ┴┴ ┴└─┘─┴┘  ╚═╝╩═╝  ╩ ╩╩ ╩╚═╝╚═╝<br/>
+</p>

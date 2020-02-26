@@ -1,0 +1,16 @@
+pip
+setuptools
+wheel
+tqdm
+numpy
+pandas
+opencv-python
+opencv-contrib-python
+glob
+joblib
+scikit-image
+sklearn
+matplotlib
+seaborn
+ReliefF
+mahotas

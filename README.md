@@ -1,7 +1,7 @@
 # Image_Mining
 ACADEMIC PROJECTS
 
-> All about Images, clustering , Classification , regression , CBIR ....
+> All about Images, Clustering , Classification , Regression , CBIR ....
 
 ***
 
